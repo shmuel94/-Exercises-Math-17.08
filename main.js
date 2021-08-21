@@ -1,11 +1,20 @@
-// //1
-// console.log(Math.floor(Math.random() * 100));
+//1
+// function retornNumber(){
+//     return Math.floor(Math.random() * 100);
+// }
+// console.log(retornNumber());
 
-// //2
-// console.log(Math.floor(Math.random() * 10000));
+//2
+// function retornNumber(){
+//     return Math.floor(Math.random() * 10000);
+// }
+// console.log(retornNumber());
 
-// //3
-// console.log(Math.floor(Math.random() * 55));
+//3
+// function retornNumber(){
+//     return Math.floor(Math.random() * 55);
+// }
+// console.log(retornNumber());
 
 // //4
 // var userInput = prompt("enter number");
